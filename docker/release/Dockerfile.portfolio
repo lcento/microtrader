@@ -1,4 +1,4 @@
-FROM dockerproductionaws/microtrader-base
+FROM 909704556315.dkr.ecr.eu-central-1.amazonaws.com/dockerproductionaws/microtrader-base
 MAINTAINER Justin Menga <justin.menga@gmail.com>
 LABEL application.component=microtrader-portfolio
 
